@@ -1,3 +1,3 @@
 #installation
 
-npm install pickchuPriyansh4321
+npm install p4321
